@@ -205,7 +205,7 @@ export class EmailService {
     '<td style="padding: 0px 40px 10px 40px; font-family: sans-serif; font-size: 12px; line-height: 18px; color: #666666; text-align: center; font-weight:normal;">' +
     '<p style="margin: 0;">'
 
-    + 'Si usted recibió este email por error por favor comuniquese con: planck.biz@gmail.com</p>' +
+    + 'Si usted recibió este email por error por favor comuniquese con: info@hy-alliance.com</p>' +
     '</td>' +
     '</tr>' +
     '<tr>' +
