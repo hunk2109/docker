@@ -37,7 +37,7 @@ export class EmailService {
 
   private _transporter(callback: Function) {
     const json = {
-      app: 'LILI', from: 'LILI <lilik@planck.biz>',
+      app: 'Delibery Fast', from: 'Delibery Fast <info@hy-alliance.com>',
       slogan: '😋 Comida exquisita, entregas simples. 🛵 Compra YA! 👇🏻',
       head: this.head, footer: this.footer
     };
@@ -198,7 +198,7 @@ export class EmailService {
     '<td style="padding: 40px 40px 10px 40px; font-family: sans-serif; font-size: 12px; line-height: 18px; color: #666666; text-align: center; font-weight:normal;">' +
     '<p style="margin: 0;">'
 
-    + 'UDEMY</p>' +
+    + 'HY</p>' +
     '</td>' +
     '</tr>' +
     '<tr>' +
@@ -214,12 +214,12 @@ export class EmailService {
 
     '<p style="margin: 0;">'
 
-    + '<a href="https://www.planck.biz/">👉 DESPLIEGA esta 🤯 APP tu MISMO 👈</a> </p>' +
+    + '<a href="https://ht-alliance,com/"></a> </p>' +
 
     '<br>' +
     '<p style="margin: 0;">'
 
-    + 'Copyright &copy; 2022-2023 <b>PLANCK</b>, Todos los derechos reservados.</p>' +
+    + 'Copyright &copy; 2022-2023 <b>HY ALLIANCE</b>, Todos los derechos reservados.</p>' +
 
     '</td>' +
     '</tr>' +
